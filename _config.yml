@@ -1,0 +1,75 @@
+# GitHub Pages Configuration
+# Static site configuration - No Jekyll theme dependencies
+
+# Site Settings
+title: "Erwin Mitra - Full-Stack Flutter Developer"
+description: "Professional Software Engineer expert at cross-platform Flutter App Development, Community Builder & Open Source Advocate empowering businesses through innovative technology solutions."
+url: "https://github.com/erwinmitra"
+baseurl: "Erwin Mitra"
+
+# Author Information
+author:
+  name: "Erwin Mitra"
+  email: "erwinmitra56@gmail.com"
+  twitter: "dndmits"
+  github: "Erwin Mitra"
+  linkedin: "Erwin Mitra"
+
+# SEO and Meta Information
+lang: en_US
+timezone: Asia/Karachi
+
+# Site verification codes (add your verification codes here)
+# google_site_verification: "your-google-verification-code"
+# bing_site_verification: "your-bing-verification-code"
+
+# Social Media Links
+social_links:
+  github: "https://github.com/erwinmitra"
+  linkedin: "https://www.linkedin.com/in/erwin-mitra/"
+  twitter: "https://x.com/dndmits"
+  youtube: "https://www.youtube.com/@erwinmitra1915"
+  instagram: "https://www.instagram.com/dnd_kyah/"
+  facebook: "https://www.facebook.com/dnd.mits"
+  email: "erwinmitra56@gmail.com"
+  whatsapp: "+639498453104"
+
+# Professional Information
+professional:
+  role: "Full-Stack Flutter Developer"
+  location: "Punjab, Pakistan"
+  experience_years: 5
+  specializations:
+    - "Flutter Development"
+    - "Cross-Platform Mobile Apps"
+    - "AI Integration"
+    - "Web Development"
+    - "Open Source"
+
+# Analytics and Tracking
+# google_analytics: "G-XXXXXXXXXX"
+# google_tag_manager: "GTM-XXXXXXX"
+
+# GitHub Pages Build Settings
+plugins: []
+
+# File exclusions
+exclude:
+  - "node_modules/"
+  - "*.log"
+  - ".git/"
+  - ".gitignore"
+  - "README.md"
+  - "Gemfile"
+  - "Gemfile.lock"
+  - "vendor/"
+
+# Include static assets
+include:
+  - "images/"
+  - "*.html"
+  - "*.css"
+  - "*.js"
+  - "*.png"
+  - "*.ico"
+  - "favicon.png"
